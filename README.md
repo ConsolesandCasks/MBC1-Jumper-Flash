@@ -4,6 +4,8 @@ Game Boy MBC1 Fram Flash Cart supporting both MBC1 modes
 MBC1 FRAM cart that supports both MBC1 modes (2MB ROM/8K RAM and 512K ROM/32K RAM)
 <img src="mbc1_jumper_back.jpg" width=327 height=435 ><img src="mbc1_jumper_front.jpg" width=327 height=435>
 
+This uses djedditt's footprints and outlines: https://github.com/djedditt/kicad-gamepaks and gekkio's MBC1 IC footprint https://github.com/Gekkio/gekkio-kicad-libs
+
 ## Guide
 Jumpers on board determine the mode, solder the jumpers as appropriate to match the mode/filesize of the game you are writing
 
