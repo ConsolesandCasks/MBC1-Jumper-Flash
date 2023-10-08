@@ -16,6 +16,7 @@ A - 512K/32K
 O - Bridge the 3 vertical pads on the left side together (JP4), and the center and right of the two middle jumper pads (JP1 and JP2)
 
 A - Bridge the 3 vertical pads on the right side together (JP3), and the center and left of the two middle jumper pads (JP1 and JP2)
+
 <img src="mbc1_jumper_populated.jpg" width=327 height=435>
 
 ## How to get
