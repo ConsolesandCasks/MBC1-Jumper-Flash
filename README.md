@@ -10,12 +10,14 @@ This uses djedditt's footprints and outlines: https://github.com/djedditt/kicad-
 Jumpers on board determine the mode, solder the jumpers as appropriate to match the mode/filesize of the game you are writing
 
 O - 2MB/8K
+JP1: bridge right two pads
+JP2: bridge right two pads
+JP4: bridge all three pads together
 
 A - 512K/32K
-
-O - Bridge the 3 vertical pads on the left side together (JP4), and the center and right of the two middle jumper pads (JP1 and JP2)
-
-A - Bridge the 3 vertical pads on the right side together (JP3), and the center and left of the two middle jumper pads (JP1 and JP2)
+JP1: bridge left two pads
+JP2: bridge left two pads
+JP3: bridge all three pads together
 
 <img src="mbc1_jumper_populated.jpg" width=327 height=435>
 
