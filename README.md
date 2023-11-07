@@ -42,6 +42,10 @@ Order in 0.8mm, ENIG, edge connector, beveled
 | U4 | 74LVC1G332 |
 | MBC1 | Harvested from OEM Cart |
 
+## Disclaimer
+I am not responsible for any damage you do to your person or property. I do not guarantee design compatibility. You may encounter issues with certain games! Attempt this project at your own risk.
+
+If you are using this board to make games other than for personal use, you must have permission from the originator to use and distribute any ROM images or other related material. You are responsible for making sure you adhere to any license requirements. DO NOT use my circuit boards to distribute or resell copyrighted Nintendo software. DO NOT use my circuit boards for profiting from stolen work - this especially includes homebrew content, ROM hacks, and using fan-made labels without permission from the originator.
 
 ## License
 CC-BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
